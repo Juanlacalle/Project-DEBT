@@ -1,12 +1,17 @@
 # Project-DEBT
 
-# Analysis of variables that influence debt of all the countris, in the 6th week studing Ironhack course in Lisbon.
+
+
+## Analysis of variables that influence debt of all the countris, in the 6th week studing Ironhack course in Lisbon.
  
  
-# Please see attached my presentation:
+
+## Please see attached my presentation:
  https://www.canva.com/design/DADsZDGEpas/TJWHgYevNq90bFOOLe4crQ/edit?category=tACFasDnyEQ
  
   
+
+
 #                                              CONCLUSION                          
 
 
